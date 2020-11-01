@@ -15,7 +15,7 @@ namespace Chirila_Luisa_Lab2.CustomCommands
         public static RoutedUICommand Launch
         {
             get
-            {
+            { 
                 return launch_command;
             }
         }
